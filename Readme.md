@@ -1,4 +1,4 @@
-![jumpLogger rendering](/pics/JL1a.jpg)
+![jumpLogger rendering](/pics/JL1Render.jpg)
 # jumpLogger 1.0
 This is a next generation skydive jump logger: a combined digital altimeter, GPS tracker, motion sensor and a device that allows detailed afterflight/jump analysis.
 
