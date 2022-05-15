@@ -52,9 +52,9 @@ Based on the existing hardware, jumpLogger can develop to a community driven nex
 
 ## more info
 
-You can find a dmore detailed feature list at [jumpLogger features]https://crwdgs.com/jumplogger.html
+You can find a dmore detailed feature list at [jumpLogger features](https://crwdgs.com/jumplogger.html)
 
-A preliminary manual is available at [jumpLogger manual]https://crwdgs.com/manual.html
+A preliminary manual is available at [jumpLogger manual](https://crwdgs.com/manual.html)
 
 ![jumpLogger in use](/pics/JL01-0.jpg)
 ![3D printes case, PA12](/pics/case0.jpg)
