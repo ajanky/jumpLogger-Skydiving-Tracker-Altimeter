@@ -210,9 +210,9 @@ void setupurl()
 
 void initwifi()
 {
-  wifiMulti.addAP("jam2", "T57707300$");
-  wifiMulti.addAP("iPhone 11 Andreas", "bfpycrgbr39mv");
-  wifiMulti.addAP("GoJump", "lovegojump");
+  wifiMulti.addAP("SSID", "PWD");
+  wifiMulti.addAP("SSID2", "PWD2");
+  wifiMulti.addAP("SSID3", "PWD3");
 
   if(wifiMulti.run() == WL_CONNECTED) {
     Serial.println("");
